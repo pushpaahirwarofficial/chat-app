@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: chat-app
+    name: laravel-reverb
     env: php
     plan: free
     buildCommand: |
